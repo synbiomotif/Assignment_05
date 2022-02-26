@@ -1,2 +1,2 @@
-# FDProgramming2022Spring-UW
+# FDProgramming_2022_Spring-UW
 Homework acquired by Dirk
